@@ -1,0 +1,9 @@
+{
+  "name": "ahah",
+  "version": "0.1.0",
+  "main": "myLib1.umd.min.js",
+  "dependencies": {
+    "element-ui": "^2.15.8",
+    "wq": "github:WuQiang1234-ux/wuqiang"
+  }
+}
